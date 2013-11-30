@@ -6,12 +6,14 @@
 		"Bootstrap 3 Snippets",
 		"Djaneiro",
 		"Emmet",
+		"Floobits",
 		"GitGutter",
 		"JSHint Gutter",
 		"LESS",
 		"LiveReload",
 		"Monokai Extended",
 		"Package Control",
+		"Sass",
 		"Search in Project",
 		"SideBarEnhancements",
 		"SublimeGit",
@@ -20,6 +22,7 @@
 		"Theme - Piatto",
 		"Theme - Soda",
 		"Tomorrow Color Schemes",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"Vintageous"
 	]
 }
