@@ -1,0 +1,25 @@
+{
+	"installed_packages":
+	[
+		"Anaconda",
+		"Base16 Color Schemes",
+		"Bootstrap 3 Snippets",
+		"Djaneiro",
+		"Emmet",
+		"GitGutter",
+		"JSHint Gutter",
+		"LESS",
+		"LiveReload",
+		"Monokai Extended",
+		"Package Control",
+		"Search in Project",
+		"SideBarEnhancements",
+		"SublimeGit",
+		"Theme - Flatland",
+		"Theme - Nil",
+		"Theme - Piatto",
+		"Theme - Soda",
+		"Tomorrow Color Schemes",
+		"TrailingSpaces"
+	]
+}
